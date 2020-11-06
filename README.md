@@ -1,1 +1,1 @@
-# rgb10-powkiddy
+# rgb10-powkiddy...the rgb10 black functions like the yellow and rk2020 in regards to charging...my black rgb10 ONLY charges in sleep mode...turn on.turn brightness down, set power save to default and plug in then press power button quick click to enter sleep..my unit would not charge otherwise..not in a 5volt 2amp wall charger not connected to a PC USB port etc.
